@@ -1,6 +1,6 @@
 - Hi, I’m @nariman-dehghani
 - I’m interested in Reinforcement Learning and Risk Modeling
-- I’m currently learning Game theory
+- I’m currently learning Game Theory
 - How to reach me nariman.dehghani@gmail.com
 
 <!---
