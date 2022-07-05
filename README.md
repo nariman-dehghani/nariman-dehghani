@@ -1,4 +1,4 @@
-- Hi, I’m @nariman
+- Hi, I’m Nariman
 - I’m interested in Data Science, Reinforcement Learning, and Risk Modeling
 - How to reach me nariman.dehghani@gmail.com
 
